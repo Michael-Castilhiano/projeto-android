@@ -67,7 +67,7 @@ header p{
     padding-left: 10px; /*esse padding é pra naõ encostar nas bordas do site quando a tela for de outro tamanaho*/
     padding-right: 10px;
     margin: auto; /*necessário para colocar o max-width*/
-    margin-bottom: 20px;
+    padding-bottom: 20px;
     max-width: 500px;
     text-shadow: 2px 2px 0px rgba(0, 0, 0, 0.538);
 }
